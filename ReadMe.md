@@ -4,9 +4,9 @@ Docker Tutorial HomeWork
 
 For this homework, you need to complete the Docker Getting Started guide sections
 
-1 Orientation ~ Set up your Docker environment
-2 Containers ~ Build an image and run it as one container
-3 Services ~ Scale your app to run multiple containers
+1. Orientation ~ Set up your Docker environment
+2. Containers ~ Build an image and run it as one container
+3. Services ~ Scale your app to run multiple containers
 
 # Commits
 
