@@ -14,4 +14,4 @@ For this homework, you need to complete the Docker Getting Started guide section
 2. Dockerfile ~ Req and app.py (Defined Container and Set/Run Python)
 3. Docker Compose file (Added docker-compose.yml)
 
-# Done by Chinedu Nnaji
+**Done by Chinedu Nnaji**
